@@ -1,1 +1,1 @@
-readme for git file
+non empty readme for root repo
